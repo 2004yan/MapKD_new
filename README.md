@@ -6,7 +6,8 @@
 
 
 ## Model
-
+### Download teacher model in https://drive.google.com/file/d/1htDzMVEi9BOYATLTSsijbK3hAmrssm34/view?usp=drive_link
+### Download coach model in https://drive.google.com/file/d/1bmvH8yCWBBzwArIYObCSw-8_U4hA3d3F/view?usp=drive_link
 ### Results on nuScenes-val set
 We provide results on nuScenes-val set.
 |     Method      |     M      |   Div.   |   Ped.   |  Bound.  |   mIoU    |   mAP    |
